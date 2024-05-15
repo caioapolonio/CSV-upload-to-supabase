@@ -43,7 +43,7 @@ Before you begin, ensure you have the following installed:
 4. **Run the application**
 
    ```bash
-   node app.js
+   node index.js
    ```
 
    The application will start on port 3000.
