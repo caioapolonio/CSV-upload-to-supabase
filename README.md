@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed:
 
 ## Project Structure
 
-- `app.js`: The main application file.
+- `index.js`: The main application file.
 - `uploads/`: Directory where uploaded CSV files are temporarily stored.
 - `.env`: Environment variables file (not included in the repository).
 
